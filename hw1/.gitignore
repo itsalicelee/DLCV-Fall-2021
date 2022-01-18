@@ -1,0 +1,16 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specofied below
+hw1_data/*
+*.png
+src/log/*
+src2/log/*
+src/__pycache__/*
+src2/__pycache__/*
+*.pyc
+results/*
+INTERRUPTED.pth
+model_best_*
+src2/results/*
+src2/checkpoints/*
+src2/fcn8s-heavy-pascal.pth
+*.pth

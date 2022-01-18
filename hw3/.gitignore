@@ -1,0 +1,8 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+*/__pycache__/
+*/__pycache__/
+hw3_data/*
+p1/ckpts/*
+p1/model.pth
+p2/catr/results/*

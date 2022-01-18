@@ -1,0 +1,1 @@
+wget 'https://www.dropbox.com/s/ey8xn49s5ruw1r7/0020.pth?dl=1' -O p2/model.pth

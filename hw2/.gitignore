@@ -1,0 +1,22 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specofied below
+
+hw2_data/*
+*jpg
+p1/ckpts
+p2/ckpts
+p1/output/
+p3/ckpts/log
+p1/__pycache__/
+p2/output/
+p1/deeper2/
+p1/1106/
+p1/log4/
+p1/stylegan/
+p1/smooth
+p3/old_ckpts_improved/
+p3/ckpts/
+p3/ckpts_improved/
+p3/lower/
+p3/upper/
+p2/model.pth
