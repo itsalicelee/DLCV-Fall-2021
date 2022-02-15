@@ -18,3 +18,4 @@ This is the repository of Deep Learning for Computer Vision of Prof. Yu-Chiang F
 ### HW4
   - Problem 1: Prototypical Net
   - Problem 2: Self-Supervised Pre-training for Image Classification
+### Final Project: Fine-grained Long-tailed Food Image Classification (ICCV’21 Workshop)
