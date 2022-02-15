@@ -1,0 +1,16 @@
+# Ignore the dataset folder
+# IMPORTANT: make sure that your dataset is stored in a
+# folder with the same name as the one specified below!
+
+# data
+*.png
+*.jpg
+food_data/*
+hw1_data/*
+# train related log
+*.pth
+*.log
+*.mat
+*.csv
+# binary files
+*.pyc
