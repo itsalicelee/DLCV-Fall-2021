@@ -3,7 +3,7 @@
 # folder with the same name as the one specified below!
 
 # data
-*.png
+
 *.jpg
 food_data/*
 hw1_data/*
