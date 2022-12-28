@@ -1,5 +1,5 @@
 # DLCV Final Project ( Food-classification-Challenge )
-
+![poster](./img/long_tail.png)
 # How to run this code? (for TAs)
 
     # Download all our models and unzip (~5GB)
